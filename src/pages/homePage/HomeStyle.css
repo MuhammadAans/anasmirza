@@ -1,0 +1,53 @@
+.box{
+    background-color: green;
+    border: green;
+    /* line-height: 350px; */
+    padding: 25px;
+}
+.box1{
+    color: antiquewhite;
+    width: 40%;
+    border: green;
+}
+.box1 ,h1 ,p{
+    color: antiquewhite;
+}
+.para{
+    font-weight: bolder;
+}
+.anas{
+    background-color: green;
+}
+.anas1 > p {
+    color: black;
+}
+.ahmad{
+    margin-top: 20px;
+}
+.ahmad1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ahmad2{
+    width: 48%;
+}
+.mirza > p{
+    color: black;
+}
+span{
+    color: aqua;
+}
+button{
+    border-radius: 20px 20px;
+    margin: 5px;
+}
+button:hover{
+    background-color: aqua;
+}
+.mirza1 > p{
+  color: gray;
+}
+.mirza2 {
+    color: gold;
+  }
